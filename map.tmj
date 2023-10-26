@@ -358,7 +358,7 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":382,
+                 "height":384,
                  "id":31,
                  "name":"welcomePopup",
                  "rotation":0,
